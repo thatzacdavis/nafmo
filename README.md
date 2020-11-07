@@ -1,1 +1,10 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# NAFMO
+
+The open-source website for the The North American FIFA Manager Online League.
+
+## Development Instructions
+
+```bash
+npm i
+npm dev
+```
